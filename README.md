@@ -2,6 +2,10 @@
 
 A Python-based GUI application built using the `tkinter` library that serves as a home screen for launching various utilities like clock, camera, calculator, calendar, and a browser.
 
+## Output
+![output](Output.png)
+
+
 ## Features
 - **Real-Time Clock and Date**: Displays the current time and date, updated dynamically.
 - **Quick Launch Buttons**:
@@ -25,7 +29,6 @@ A Python-based GUI application built using the `tkinter` library that serves as 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/home-application.git
-
 
 <br><i><b>Feel free to customize, enhance, and use this program for educational or practical purposes!
 ##

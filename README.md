@@ -28,7 +28,7 @@ A Python-based GUI application built using the `tkinter` library that serves as 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/home-application.git
+   git clone https://github.com/BNB2006/Tkinter-Python-project.git
 
 <br><i><b>Feel free to customize, enhance, and use this program for educational or practical purposes!
 ##
